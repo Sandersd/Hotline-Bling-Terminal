@@ -1,2 +1,4 @@
 # Hotline-Bling-Terminal
-Drake's terminal
+Python script to display a scrolling banner that reads 'HOTLINE BLING' in asterik letters
+
+Inspired by [this] (http://usingpython.com/programs/)
